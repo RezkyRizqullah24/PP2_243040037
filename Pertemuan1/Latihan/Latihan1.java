@@ -1,3 +1,4 @@
+package Latihan;
 import javax.swing.*;
 
 public class Latihan1 {
